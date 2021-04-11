@@ -20,7 +20,7 @@ texto de descrição
 Perguntas
 
 # Bases de Dados
-Para o desenvolvimento do projetos foram utilizada a base de dados fornecido pelo SUS e uma base de dados do XXX que possui os dados sobre a Covid-19
+Para o desenvolvimento do projeto foram utilizadas a base de dados disponibilizada pelo DATASUS e a base de dados CoronavírusBrasil que disponibiliza os dados sobre a Covid-19
 
 | Base de Dados | Localização | Descrição |
 |--|--|--|
